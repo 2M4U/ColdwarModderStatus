@@ -62,7 +62,9 @@ Custom Button Status:
 # How to get your token
 Go to Discord and open the developer console using `CTRL` + `SHIFT` + `I`, go to the console tab and enter this code
 ```JS
-webpackJsonp.push([[],{extra_id:(e,r,t)=>e.exports=t},[["extra_id"]]]);for(let e in req.c)if(req.c.hasOwnProperty(e)){let r=req.c[e].exports;if(r&&r.__esModule&&r.default)for(let e in r.default)"getToken"===e&&console.log(r.default.getToken())}
+let myToken = webpackJsonp.push([[],{extra_id:(e,r,t)=>e.exports=t},[["extra_id"]]]);for(let e in myToken.c)if(myToken.c.hasOwnProperty(e)){let r=myToken.c[e].exports;if(r&&r.__esModule&&r.default)for(let e in r.default)"getToken"===e&&console.log(r.default.getToken())}
 ```
+
+**NOTE: ANYONE WHO MAKES AN ISSUE CLAIMING THIS IS A TOKEN GRABBER IS AN IDIOT - IT IS SIMPLY A LINE OF CODE TO GET YOUR TOKEN FROM DISCORD TO DISPLAY TO ONLY YOU!**
 
 It should now output your token which will look like random letters and numbers, etc. That is your token, put the **whole** thing as your token.
