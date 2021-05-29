@@ -47,7 +47,7 @@ Custom Button Status:
         "details": "🔥 Dark Aether + More 🔥"
     },
     "assets": {
-        "image_text": "Free ColdWar Lobbies",
+        "image_text": "Cold War Lobbies",
         "image_key": "smoking" 
     },
     "button_one": {
