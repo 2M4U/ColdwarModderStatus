@@ -1,0 +1,26 @@
+{
+  "name": "cwstatus-and-discord-advertiser",
+  "version": "1.0.0",
+  "description": "Custom Animated Status For Discord",
+  "main": "status.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "pkg": {
+    "scripts": [
+      "lib/functions/*.js",
+      "lib/log/*.js"
+    ]
+  },
+  "author": "CyberCDN",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord-rpc": "^3.2.0",
+    "node-bash-title": "^0.0.2",
+    "request": "^2.88.2"
+  }
+}
