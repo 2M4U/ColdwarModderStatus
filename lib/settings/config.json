@@ -1,0 +1,55 @@
+{
+    "token": "",
+    "handleRatelimit": true,
+    "timeZone": "Europe/London",
+    "animation": [
+        {
+            "text": "💎 Coldwar Modder 💎",
+            "emojiID": null,
+            "emojiName": null,
+            "timeout": 20000
+        },
+        {
+            "text": "✨ Join My Discord ✨",
+            "emojiID": null,
+            "emojiName": null,
+            "timeout": 15000
+        },
+        {
+            "text": "🌟 Max Lvl + Camos + DA 🌟",
+            "emojiID": null,
+            "emojiName": null,
+            "timeout": 20000
+        },
+        {
+            "text": "🔥 Free CW Lobbies 🔥",
+            "emojiID": null,
+            "emojiName": null,
+            "timeout": 20000
+        },
+        {
+            "text": "💬 𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐌𝐞 💬",
+            "emojiID": null,
+            "emojiName": null,
+            "timeout": 15000
+        }
+    ],
+    "instance": true,
+    "client_id": "848125402248511528",
+    "status": {
+        "state": "🌟 Max Lvl + Camos 🌟",
+        "details": "🔥 Dark Aether + More 🔥"
+    },
+    "assets": {
+        "image_text": "Free ColdWar Lobbies",
+        "image_key": "smoking"
+    },
+    "button_one": {
+        "label_name": "Youtube Channel",
+        "label_url": "https://youtube.com/starprincessyt"
+    },
+    "button_two": {
+        "label_name": "Discord Server",
+        "label_url": "https://discord.gg/smokingbabe420"
+    }
+}
