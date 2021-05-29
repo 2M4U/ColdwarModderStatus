@@ -9,12 +9,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "pkg": {
-    "scripts": [
-      "lib/functions/*.js",
-      "lib/log/*.js"
-    ]
-  },
   "author": "CyberCDN",
   "license": "ISC",
   "dependencies": {
