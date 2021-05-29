@@ -1,5 +1,6 @@
 {
-    "token": "",
+    "token": "YOUR_TOKEN",
+    "instance": true,
     "handleRatelimit": true,
     "timeZone": "Europe/London",
     "animation": [
